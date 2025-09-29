@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+MYD-MAN is a retro arcade-style maze game inspired by the classic Pac-Man. The player controls MYD-MAN, navigating through a maze while collecting points and avoiding enemies. The objective is to clear the maze by eating all the pellets before being caught.
