@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Mydman
+comment0.text=\r\n\ The\ Mydman\ class\ represents\ the\ main\ application\ window\ for\ the\ game.\r\n\ It\ extends\ JFrame\ and\ initializes\ the\ game\ by\ adding\ an\ instance\ of\ the\ Model\ class.\r\n\r\n\ The\ class\ includes\ functionality\ for\ setting\ up\ the\ main\ frame,\ setting\ its\ properties,\r\n\ and\ displaying\ the\ game\ window.\r\n\r\n\ @author\ Dhruv\ Choubey\r\n
+comment1.params=
+comment1.target=Mydman()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

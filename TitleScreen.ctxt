@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ The\ TitleScreen\ class\ represents\ the\ title\ screen\ of\ the\ game.\r\n\ It\ extends\ JPanel\ and\ provides\ a\ button\ to\ start\ the\ game.\r\n\r\n\ The\ class\ includes\ functionality\ for\ displaying\ the\ title\ text\r\n\ and\ handling\ the\ start\ button\ click\ event\ to\ initiate\ the\ game.\r\n\r\n\ @author\ Dhruv\ Choubey\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
